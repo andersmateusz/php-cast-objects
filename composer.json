@@ -1,0 +1,20 @@
+{
+    "name": "andersmateusz/php-cast-objects",
+    "description": "Adds object casting functionality",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mateusz Anders",
+            "email": "anders_mateusz@outlook.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/index.php"
+        ]
+    }
+}
